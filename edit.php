@@ -2,8 +2,6 @@
 
 include 'lib/library.php';
 
-
-
 if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $nis = $_POST['nis'];
     $nama_lengkap = $_POST['nama_lengkap'];
