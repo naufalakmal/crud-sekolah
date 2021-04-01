@@ -1,4 +1,5 @@
 <?php
+
 include 'lib/library.php';
 $nis = $_GET['nis'];
 
